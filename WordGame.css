@@ -1,0 +1,31 @@
+/** @format */
+
+fieldset {
+    width: 600px;
+    margin: 0 auto;
+}
+label {
+    float: left;
+    width: 250px;
+    clear: left;
+    text-align: right;
+    padding-right: 1em;
+}
+
+input {
+    width: 250px;
+    float: left;
+}
+button {
+    display: block;
+    padding: 1px 6px;
+    clear: both;
+    margin: 10px auto;
+}
+
+#output {
+    font-size: 150%;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
