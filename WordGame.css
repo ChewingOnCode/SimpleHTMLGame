@@ -1,5 +1,7 @@
 /** @format */
-
+h1 {
+    text-align: center;
+}
 fieldset {
     width: 600px;
     margin: 0 auto;
