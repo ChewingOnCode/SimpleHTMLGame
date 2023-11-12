@@ -2,10 +2,12 @@
 h1 {
     text-align: center;
 }
+
 fieldset {
     width: 600px;
     margin: 0 auto;
 }
+
 label {
     float: left;
     width: 250px;
@@ -18,6 +20,7 @@ input {
     width: 250px;
     float: left;
 }
+
 button {
     display: block;
     padding: 1px 6px;
